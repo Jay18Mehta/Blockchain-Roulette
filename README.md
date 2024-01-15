@@ -1,0 +1,3 @@
+# Roulette Hardhat Project
+
+Implemented a Smart Contract using Solidity. Tested and deployed using Hardhat. Uses chainlink-VRF-v2 to generate random number. User first have to deposit ether to play. Next he/she can select outside bets or straight-up bets . Based on the number generated ethers are deducted/added from user's deposited amount. User can withdraw ether. Also only owner can fund the contract and all remove funds from contract.
